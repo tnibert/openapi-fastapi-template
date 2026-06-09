@@ -1,0 +1,5 @@
+fastapi-code-generator
+fastapi[standard]
+sqlalchemy
+pytest
+python-dateutil
